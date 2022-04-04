@@ -1,6 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&display=swap");
 :root {
-  --header-bg: #e4e4e4;
+  --header-bg: #415973;
 }
 
 .m-0 {
@@ -2316,6 +2316,7 @@ hr {
   padding: 100px 25px 5px;
   background: var(--header-bg);
   overflow: hidden;
+  color: white;
 }
 
 .header .name {
